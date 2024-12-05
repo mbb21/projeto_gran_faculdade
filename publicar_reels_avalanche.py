@@ -258,11 +258,11 @@ def automatizar_publicacoes(folder_videos, folder_dicas, folder_motivacao, usern
 
 
 # Parâmetros
-usuario_instagram = 'avalanche_focototal'
-senha_instagram = 'instajoaomatheus@'
-pasta_videos = r'C:\Users\Matheus\Desktop\videos'
-pasta_dicas = r'C:\Users\Matheus\Desktop\dicas'
-pasta_motivacao = r'C:\Users\Matheus\Desktop\motivacao'
+usuario_instagram = 'XXX'
+senha_instagram = 'XXX'
+pasta_videos = r'XXX'
+pasta_dicas = r'XXX'
+pasta_motivacao = r'XXX'
 
 # Executa o programa
 automatizar_publicacoes(pasta_videos, pasta_dicas, pasta_motivacao,
