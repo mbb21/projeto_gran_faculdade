@@ -3,10 +3,10 @@ from moviepy.editor import VideoFileClip, ImageClip, concatenate_videoclips
 import os
 
 # Caminho do arquivo de texto que contém as URLs
-file_path = r'C:\Users\Matheus\Desktop\videos\videos.txt'
+file_path = r'XXX'
 
 # Pasta de destino para mover os vídeos
-output_folder = r'C:\Users\Matheus\Desktop\videos\\'
+output_folder = r'XXX'
 
 # Ler o arquivo e carregar as URLs na variável videos_videos
 with open(file_path, 'r') as file:
