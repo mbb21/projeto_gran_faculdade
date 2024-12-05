@@ -10,5 +10,5 @@ publicar_reels_avalanche.py: esse script busca arquivos de vídeos e imagens, se
 A intenção desse projeto foi a de gerenciar automaticamente o perfil de uma página do instagram a partir da repulicação de conteúdos em alta no tiktok. 
 O projeto pode ser adaptado para qualquer público, sendo a ideia inicial a de motivar concurseiros a se manterem focados nos estudos.
 
-Entendo que os scripts possuem relação direta com os dois cursos de graduação citados acima, pois é feita a manipulação e mineração de dados disponíveis na web (Ciência de Dados), e os gerenciamento e publicação desses conteúdos públicos em uma página de mídia social. 
+Entendo que os scripts possuam relação direta com os dois cursos de graduação citados acima, pois é feita a manipulação e mineração de dados disponíveis na web (Ciência de Dados), e os gerenciamento e publicação desses conteúdos públicos em uma página de mídia social. 
 Além dessa gestão dos dados, os scripts podem ser adaptados a qualquer tipo de público, como órgãos públicos que tenham interesse em buscar e publicar dados relacionados a sua área fim - e outros (Gestão Pública).  
